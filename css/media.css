@@ -61,7 +61,7 @@
         font-size: 16px;
     }
     .take__info {
-        margin-left: 29px;
+        margin-left: 2px;
     }
     .take {
         padding: 80px 0 80px;
@@ -86,6 +86,9 @@
     .menu__subtitle {
         font-size: 14px;
     }
-
+    .take__title {
+        font-size: 21px;
+        margin: 5px 0 15px;
+    }
 
 }
