@@ -64,7 +64,8 @@
     }
 
     .take__info {
-        margin-left: 0;
+        margin-left: 29px;
+        max-width: 380px;
     }
 
     .take {
